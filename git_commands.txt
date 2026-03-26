@@ -1,0 +1,6 @@
+ git init
+ git status
+ dir -Force
+ git add testing.py
+ git commit -m "added testing file"
+ git restore
